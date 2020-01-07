@@ -9,7 +9,7 @@
 
 ## User Posts
 1. As a logged in donor user, I can create a new offer post.
-2. As aloggein donor user, I can delete my offer post.
+2. As a logged in donor user, I can delete my offer post.
 3. As a logged in receiver user, I can create a new request post.
 4. As a logged in receiver user, I can delete a request post. 
 5. As a logged in user, I can filter  posts by custom fields (medicine, diet, location).
