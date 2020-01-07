@@ -12,8 +12,10 @@
 2. As a logged in donor user, I can delete my offer post.
 3. As a logged in receiver user, I can create a new request post.
 4. As a logged in receiver user, I can delete a request post. 
-5. As a logged in user, I can filter  posts by custom fields (medicine, diet, location).
+5. As a logged in user, I can tag my post with custom fields (medicine, diet, location)
+6. As a logged in user, I can filter  posts by custom fields (medicine, diet, location).
 
 ## Communication
 1. As a logged in receiver user, I can communicate with donors about their offer post.
 2. As a logged in donor user, I can communicate with receivers about their request post. 
+3. As a logged in user, I can block communication with other users.
