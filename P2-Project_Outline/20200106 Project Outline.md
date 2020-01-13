@@ -24,7 +24,7 @@ We will be using
 -	Razor Templates
 -	GoogleMaps API
 -	OAuth for Facebook
--	Messageing API yet to be determined
+-	Messaging API yet to be determined
 
 ### What We'll Have to Learn
 -	We will have to learn how to connect the Google API to our application. 
