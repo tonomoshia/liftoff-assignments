@@ -1,5 +1,4 @@
 # Project Planning
-For this assignment, you'll create some initial plans for your project.
 
 ## Assignment Description
 [Project Planning Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-planning)
@@ -8,12 +7,15 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- [LoggedOut View](https://github.com/tonomoshia/liftoff-assignments/blob/master/P3-Project_Planning/Screen%20Shot%202020-01-19%20at%207.15.57%20PM.png)
+- [LoggedIn View](https://github.com/tonomoshia/liftoff-assignments/blob/master/P3-Project_Planning/Screen%20Shot%202020-01-19%20at%207.16.47%20PM.png)
+- [View Offers and Requests View](https://github.com/tonomoshia/liftoff-assignments/blob/master/P3-Project_Planning/Screen%20Shot%202020-01-19%20at%208.31.00%20PM.png)
+
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Project Trello Board](https://trello.com/b/fHZBpBWm)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[MilkMatch Staging Repo](https://github.com/tonomoshia/stagemm.github.io)
